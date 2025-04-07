@@ -2,10 +2,18 @@
 
 This repository contains my solutions to LeetCode problems.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+# Questions
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+ Two Sum – [1]
 
- Happy coding! 🚀
+Median of Two Sorted Arrays – [4]
+
+Maximum Depth of Binary Tree – [104]
+
+Balanced Binary Tree – [110]
+
+Path Sum – [112]
+
+Lowest Common Ancestor of a Binary Tree – [236]
+
+Diameter of Binary Tree – [543]
